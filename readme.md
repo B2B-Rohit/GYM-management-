@@ -1,5 +1,5 @@
 Hello readers,
-      So this is my project done in 5th semester of engineering today we will take brief overiew on how to run this project, I'll inform about detailed project later.
+      So this is my project done in 5th semester of engineering, today we will take brief overiew on how to run this project, I'll explain about detailed project later.
       For now let just look at implementation
       
 APPLICATIONS REQUIRED
